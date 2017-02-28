@@ -8,5 +8,5 @@ Sticker is under development. Stickers are handed out in meetups and other bigge
 
 ## Amazon Gift cards
 
-APIOps network meetup speakers are intended to receive Amazon Gift cards in the future. 
+APIOps network will handout Amazon Gift cards. Intended receivers are speakers at the meetups (community members) and otherwise active community members. The amount of gift card value varies from 25 to 100 euros. 
 
