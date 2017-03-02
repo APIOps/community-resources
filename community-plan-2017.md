@@ -19,6 +19,15 @@ Community speakers are given rewards for their efforts. The advisory board can a
 
 Community arranges meetups in various locations. 
 
+Current groups:
+
+* APIOps Tampere
+* APIOps Helsinki
+
+Rampup phasegroups:
+
+* APIOps Budapest
+
 ## Co-operation
 APIOps Global Network aims to expand to all Demola Network locations during 2017-2018. APInf Oy (global lead of APIOps network) and Demola International have signed a co-operation agreement 1.3.2017. 
 
