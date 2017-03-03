@@ -41,3 +41,6 @@ To start a new local group, there are few requirements.
 APIOps Global Network aims to expand to all Demola Network locations during 2017-2018. APInf Oy (global lead of APIOps network) and Demola International have signed a co-operation agreement 1.3.2017. 
 
 APIOps Network is open for further co-operation with other operators and platforms.  
+
+## Contact information
+* APIOps Global network manager Jarkko Moilanen. Email: jarkko (at) apinf.io. Twitter: [@kyyberi](https://twitter.com/kyyberi) 
