@@ -33,6 +33,7 @@ Advisory board tasks and rights:
 * each organizer has 1 vote, but we aim for consensus rather than voting.  
 * changes community guide lines
 * decides how Youtube revenue is used. See [Community funding and partner packages](#communityfunding)
+* forum for solving disputes and issues which can not be solved locally
 
 <a name="guidelines"/>
 ## Guide lines
