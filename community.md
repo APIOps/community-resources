@@ -28,7 +28,7 @@ APIOps Global network is managed by Jarkko Moilanen. Local group organizers are 
 
 <a name="rewardprogram"/>
 ## Reward program
-Community speakers are given rewards for their efforts. The advisory board can also hand out additional rewards for active members in the community.  Details for rewards are defined and maintained at Github: https://github.com/APIOps/community-resources 
+Community speakers are given rewards for their efforts. The advisory board can also hand out additional rewards for active members in the community.  Details for rewards are defined and maintained at Github: https://github.com/APIOps/community-resources/blob/master/resources-rewards.md
 
 <a name="activities"/>
 ## Activities
