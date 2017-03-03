@@ -1,4 +1,4 @@
-# APIOps community plan
+# APIOps community 
 
 Responsible body: Jarkko Moilanen, APIOps Global Network manager 
 
