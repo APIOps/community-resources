@@ -5,6 +5,7 @@ Responsible body: Jarkko Moilanen, APIOps Global Network manager
 ##### Table of Contents  
 [Purpose](#purpose)  
 [Structure](#structure)  
+[Advisory board](#advisoryboard)  
 [Guide lines](#guidelines)  
 [Reward program](#rewardprogram)  
 [Activities](#activities)  
@@ -20,6 +21,9 @@ APIOps Global Network is about building standardized API value chain automation 
 <a name="structure"/>
 ## Structure 
 Network consists of local meetup groups which are organized in meetup.com. Each location is independent and defines own details regarding events and co-operation with local partners. Focus on activities should nevertheless touch API value chain automation. 
+
+<a name="advisoryboard"/>
+## Advisory board
 
 APIOps Global network is managed by Jarkko Moilanen. Local group organizers are part of the advisory board, which has monthly meetups online every first Monday of the month at 4pm (EET) to discuss network related issues and plans for future. Meeting room https://appear.in/apiops
 
