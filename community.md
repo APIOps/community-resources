@@ -21,7 +21,9 @@ APIOps Global Network is about building standardized API value chain automation 
 ## Structure 
 Network consists of local meetup groups which are organized in meetup.com. Each location is independent and defines own details regarding events and co-operation with local partners. Focus on activities should nevertheless touch API value chain automation. 
 
-APIOps Global network is managed by Jarkko Moilanen. Local group organizers are part of the advisory board, which has monthly meetups online every first Monday of the month at 4pm (EET) to discuss network related issues and plans for future. Each organizer has 1 vote, but we aim for consensus rather than voting.  
+APIOps Global network is managed by Jarkko Moilanen. Local group organizers are part of the advisory board, which has monthly meetups online every first Monday of the month at 4pm (EET) to discuss network related issues and plans for future. Meeting room https://appear.in/apiops
+
+Each organizer has 1 vote, but we aim for consensus rather than voting.  
 
 <a name="guidelines"/>
 ## Guide lines
