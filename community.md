@@ -11,6 +11,7 @@ Responsible body: Jarkko Moilanen, APIOps Global Network manager
 [Activities](#activities)  
 [Current local groups + candidates](#currentlocalgroups)  
 [Starting a new group](#startinganewgroup)  
+[Community funding and partner packages](#communityfunding)
 [Cooperation](#cooperation)  
 [Contact information](#contactinformation)  
 
@@ -57,6 +58,14 @@ To start a new local group, there are few requirements.
 * First you need two people to act as organizers of the local group. 
 * Secondly, you need facilities for first the meetup. 
 * Thirdly, you need to setup meetup.com group. Needed graphics will be provided by Global Network. Contact information below. 
+
+<a name="communityfunding"/>
+## Community funding and partner packages
+All the meetup sessions are recorded and published in APIOps Youtube channel. All the videos are monetized with advertisements. The profit from video views are divided with APIOps host organization (Apinf Ltd) and APIOps community. Community gets 50% of the Youtube income and host company gets the other 50%. 
+
+Local groups are encouraged to seek out partners, which support group activities with various resources. One partner could for example pay food and drinks for one or more meetups. 
+
+Partner packages are described in separate page. TODO: make a file and copy content from local drive.  
 
 <a name="cooperation"/>
 ## Co-operation
