@@ -69,7 +69,7 @@ All the meetup sessions are recorded and published in APIOps Youtube channel. Al
 
 Local groups are encouraged to seek out partners, which support group activities with various resources. One partner could for example pay food and drinks for one or more meetups. 
 
-Partner packages are described in separate page. TODO: make a file and copy content from local drive.  
+Partner packages are described in [separate page](https://github.com/APIOps/community-resources/blob/master/partner-packages.md). TODO: copy content from local drive.  
 
 <a name="cooperation"/>
 ## Co-operation
