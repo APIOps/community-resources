@@ -19,19 +19,23 @@ Community speakers are given rewards for their efforts. The advisory board can a
 
 Community arranges meetups in various locations. 
 
-Current groups:
+
+## Current local groups
 
 * [APIOps Tampere](https://www.meetup.com/APIOps-Tampere/)
 * [APIOps Helsinki](https://www.meetup.com/APIOps-Helsinki/)
 
+Rampup phase candidate groups:
+
+* [APIOps Budapest](https://www.meetup.com/APIOps-Budapest/)
+
+
+## Starting a new local group
 To start a new local group, there are few requirements. 
 * First you need two people to act as organizers of the local group. 
 * Secondly, you need facilities for first the meetup. 
 * Thirdly, you need to setup meetup.com group. Needed graphics will be provided by Global Network. Contact information below. 
 
-Rampup phase candidate groups:
-
-* [APIOps Budapest](https://www.meetup.com/APIOps-Budapest/)
 
 ## Co-operation
 APIOps Global Network aims to expand to all Demola Network locations during 2017-2018. APInf Oy (global lead of APIOps network) and Demola International have signed a co-operation agreement 1.3.2017. 
