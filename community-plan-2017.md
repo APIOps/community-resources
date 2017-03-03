@@ -24,7 +24,9 @@ Current groups:
 * [APIOps Tampere](https://www.meetup.com/APIOps-Tampere/)
 * [APIOps Helsinki](https://www.meetup.com/APIOps-Helsinki/)
 
-Rampup phasegroups:
+To start a new local group, there are few requirements. First you need two people to act as organizers of the local group. 
+
+Rampup phase candidate groups:
 
 * [APIOps Budapest](https://www.meetup.com/APIOps-Budapest/)
 
