@@ -24,7 +24,10 @@ Current groups:
 * [APIOps Tampere](https://www.meetup.com/APIOps-Tampere/)
 * [APIOps Helsinki](https://www.meetup.com/APIOps-Helsinki/)
 
-To start a new local group, there are few requirements. First you need two people to act as organizers of the local group. 
+To start a new local group, there are few requirements. 
+* First you need two people to act as organizers of the local group. 
+* Secondly, you need facilities for first the meetup. 
+* Thirdly, you need to setup meetup.com group. Needed graphics will be provided by Global Network. Contact information below. 
 
 Rampup phase candidate groups:
 
