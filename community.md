@@ -28,7 +28,11 @@ Network consists of local meetup groups which are organized in meetup.com. Each 
 
 APIOps Global network is managed by Jarkko Moilanen. Local group organizers are part of the advisory board, which has monthly meetups online every first Monday of the month at 4pm (EET) to discuss network related issues and plans for future. Meeting room https://appear.in/apiops
 
-Each organizer has 1 vote, but we aim for consensus rather than voting.  
+Advisory board tasks and rights: 
+
+* each organizer has 1 vote, but we aim for consensus rather than voting.  
+* changes community guide lines
+* decides how Youtube revenue is used. See [Comunity funding and partner packages](#communityfunding)
 
 <a name="guidelines"/>
 ## Guide lines
@@ -61,7 +65,7 @@ To start a new local group, there are few requirements.
 
 <a name="communityfunding"/>
 ## Community funding and partner packages
-All the meetup sessions are recorded and published in APIOps Youtube channel. All the videos are monetized with advertisements. The profit from video views are divided with APIOps host organization (Apinf Ltd) and APIOps community. Community gets 50% of the Youtube income and host company gets the other 50%. 
+All the meetup sessions are recorded and published in APIOps Youtube channel. All the videos are monetized with advertisements. The profit from video views are divided with APIOps host organization (Apinf Ltd) and APIOps community. Community gets 50% of the Youtube income and host company gets the other 50%. Received funding is used in advancing APIOps community, organize events and support local groups. 
 
 Local groups are encouraged to seek out partners, which support group activities with various resources. One partner could for example pay food and drinks for one or more meetups. 
 
