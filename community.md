@@ -15,6 +15,8 @@ Responsible body: Jarkko Moilanen, APIOps Global Network manager
 [Cooperation](#cooperation)  
 [Contact information](#contactinformation)  
 
+<hr/>
+
 <a name="purpose"/>
 ## Purpose
 APIOps Global Network is about building standardized API value chain automation - practices and tools included. We offer opportunities for developers to shine and get visibility for their skills and efforts in the area of API value chain automation. In addition we aim to share best practices among API economy community members and broader audience regardless of sector thus Youtube channel and live broadcasts from meetups. One of the aims is to speed up API economy and APIs- based services.    
