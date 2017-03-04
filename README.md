@@ -68,7 +68,7 @@ In APIOps community we prefer to build win-win situations. Our default developme
 
 Anyone can present an API value chain automation idea at meetups. If idea is rather small, it can be implemented without any concept development. Meetups and youtube offer a growing channel to find partners and co-developers. 
 
-One possible path for further development is to take idea to Demola Network for concept refinement. In that case idea needs a host, for example a company which is willing to explore the path. Demola teams start twice a year and each team works for about 3-4 months. After the team has finalized results, it can be implemented either as open source (preferred) or prorietary. 
+One possible path for further development is to take idea to Demola Network for concept refinement. In that case idea needs a host, for example a company which is willing to explore the path. Demola teams start twice a year and each team works for about 3-4 months. After the team has finalized results, it can be implemented either as open source (preferred) or prorietary. Open source components are managed under APIOps organization in Github. 
 
 <a name="currentlocalgroups"/>
 ## Current local groups + candidates
