@@ -47,7 +47,7 @@ Community speakers are given rewards for their efforts. The advisory board can a
 <a name="activities"/>
 ## Activities and streaming
 
-Community arranges meetups in various locations. Default period for having meetups is once a month, but local group can deviate from this if needed. Meetup presentations are broadcasted to Youtube and also saved for later use. [Instructions how to do Youtube broadcasting](https://github.com/APIOps/community-resources/blob/master/streaming.md) can be found from separate page. 
+Community arranges **meetups in various locations**. Default period for having meetups is once a month, but local group can deviate from this if needed. Meetup presentations are broadcasted to Youtube and also saved for later use. [Instructions how to do Youtube broadcasting](https://github.com/APIOps/community-resources/blob/master/streaming.md) can be found from separate page. 
 
 Presentations can discuss for example 
 
@@ -61,6 +61,8 @@ Presentations can discuss for example
 * API Developer eXperience
 * Chatbots 
 * ....
+
+**Companies can do open development**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
 
 <a name="currentlocalgroups"/>
 ## Current local groups + candidates
