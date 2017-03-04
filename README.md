@@ -28,7 +28,7 @@ Network consists of local meetup groups which are organized in meetup.com. Each 
 <a name="advisoryboard"/>
 ## Advisory board
 
-APIOps Global network is managed by Jarkko Moilanen. Local group organizers are part of the advisory board, which has monthly meetups online every first Monday of the month at 4pm (EET) to discuss network related issues and plans for future. Meeting room https://appear.in/apiops
+APIOps Global network is managed by Jarkko Moilanen. Local group organizers are part of the advisory board, which has monthly meetups online every first Monday of the month at 4pm (EET) to discuss network related issues and plans for future. Meeting room https://appear.in/apiops Advisory Board also includes 2-5 developers from the community to watch over and verify that developer focus is strong enough. 
 
 Advisory board tasks and rights: 
 
