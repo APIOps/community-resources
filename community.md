@@ -45,9 +45,9 @@ Advisory board tasks and rights:
 Community speakers are given rewards for their efforts. The advisory board can also hand out additional rewards for active members in the community.  Details for rewards are defined and maintained at Github: https://github.com/APIOps/community-resources/blob/master/resources-rewards.md
 
 <a name="activities"/>
-## Activities
+## Activities and streaming
 
-Community arranges meetups in various locations. Meetup presentations are broadcasted to Youtube and also saved for later use. Instructions how to do broadcasting can be found from separate page. 
+Community arranges meetups in various locations. Meetup presentations are broadcasted to Youtube and also saved for later use. [Instructions how to do Youtube broadcasting](https://github.com/APIOps/community-resources/blob/master/streaming.md) can be found from separate page. 
 
 <a name="currentlocalgroups"/>
 ## Current local groups + candidates
