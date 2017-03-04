@@ -47,7 +47,7 @@ Community speakers are given rewards for their efforts. The advisory board can a
 <a name="activities"/>
 ## Activities and streaming
 
-Community arranges meetups in various locations. Meetup presentations are broadcasted to Youtube and also saved for later use. [Instructions how to do Youtube broadcasting](https://github.com/APIOps/community-resources/blob/master/streaming.md) can be found from separate page. 
+Community arranges meetups in various locations. Default period for having meetups is once a month, but local group can deviate from this if needed. Meetup presentations are broadcasted to Youtube and also saved for later use. [Instructions how to do Youtube broadcasting](https://github.com/APIOps/community-resources/blob/master/streaming.md) can be found from separate page. 
 
 Presentations can discuss for example 
 
