@@ -12,7 +12,7 @@ Responsible body: Jarkko Moilanen, APIOps Global Network manager
 [Current local groups + candidates](#currentlocalgroups)  
 [Starting a new group](#startinganewgroup)  
 [Community funding and partner packages](#communityfunding)  
-[Cooperation](#cooperation)  
+[Cooperation - development and network scaling](#cooperation)  
 [Contact information](#contactinformation)  
 
 <hr/>
