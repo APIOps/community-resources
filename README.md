@@ -62,8 +62,6 @@ Presentations can discuss for example
 * Chatbots 
 * ....
 
-**Companies can do open development**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
-
 <a name="currentlocalgroups"/>
 ## Current local groups + candidates
 
@@ -94,6 +92,8 @@ Partner packages are described in [separate page](https://github.com/APIOps/comm
 APIOps Global Network aims to expand to all Demola Network locations during 2017-2018. APInf Oy (global lead of APIOps network) and Demola International have signed a co-operation agreement 1.3.2017. 
 
 APIOps Network is open for further co-operation with other operators and platforms.  
+
+**Companies can do open development with then community**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
 
 <a name="contactinformation"/>
 ## Contact information
