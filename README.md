@@ -58,7 +58,8 @@ Presentations can discuss for example
 * monetization of APIs
 * Open APIs ecosystem
 * Community analytics
-* Developer eXperience
+* API Developer eXperience
+* Chatbots 
 * ....
 
 <a name="currentlocalgroups"/>
