@@ -49,7 +49,17 @@ Community speakers are given rewards for their efforts. The advisory board can a
 
 Community arranges meetups in various locations. Meetup presentations are broadcasted to Youtube and also saved for later use. [Instructions how to do Youtube broadcasting](https://github.com/APIOps/community-resources/blob/master/streaming.md) can be found from separate page. 
 
-Presentations can be for example developer stories about designing APIs, implementing APIs, automating a phase in API development or maintenance. In addition, your presentation can be pitch about API or APIs driven service. 
+Presentations can be for example 
+
+* developer stories about designing APIs, 
+* implementing APIs, 
+* automating a phase in API development or maintenance
+* presentation can be pitch about API or APIs driven service. 
+* monetization of APIs
+* Open APIs ecosystem
+* Community analytics
+* Developer eXperience
+* ....
 
 <a name="currentlocalgroups"/>
 ## Current local groups + candidates
