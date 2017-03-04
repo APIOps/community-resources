@@ -47,7 +47,7 @@ Community speakers are given rewards for their efforts. The advisory board can a
 <a name="activities"/>
 ## Activities
 
-Community arranges meetups in various locations. 
+Community arranges meetups in various locations. Meetup presentations are broadcasted to Youtube and also saved for later use. Instructions how to do broadcasting can be found from separate page. 
 
 <a name="currentlocalgroups"/>
 ## Current local groups + candidates
