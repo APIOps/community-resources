@@ -2,7 +2,7 @@
 
 Responsible body: Jarkko Moilanen, APIOps Global Network manager 
 
-##### Table of Contents  
+### Table of Contents  
 [Purpose](#purpose)  
 [Structure](#structure)  
 [Advisory board](#advisoryboard)  
