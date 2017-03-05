@@ -26,7 +26,7 @@ All videos are published in Youtube after some post-production. In addition meet
 ## Packages
 To become partner is a bargain! Your minimal invest in supporting APIOps community will in return give your company benefits which are listed in packages below. 
 
-### Supporter package (150€)
+### Supporter package (100€)
 
 * Privilege to host 1 meetup. 
 * APIOps Global Network provides meetup.com visibility and participant registration
