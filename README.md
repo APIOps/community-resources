@@ -40,7 +40,8 @@ Advisory board tasks and rights:
 * forum for solving disputes and issues which can not be solved locally
 
 <a name="guidelines"/>
-## Guide lines
+## Community guidelines
+[Our community guidelines](https://github.com/APIOps/community-resources/blob/master/apiops-community-guidelines.md) are maintained in separate file. Responsible body for changing the guidelines is [APIOps Advisory Board](#advisoryboard). 
 
 <a name="rewardprogram"/>
 ## Reward program
