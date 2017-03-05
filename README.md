@@ -67,7 +67,7 @@ Presentations can discuss for example
 ## Joint development model
 In APIOps community we prefer to build win-win situations. Our default development model for services and software is mixed model which engages universities, companies and surrounding community. 
 
-Anyone can present an API value chain automation idea at meetups. If idea is rather small, it can be implemented without any concept development. Meetups and youtube offer a growing channel to find partners and co-developers. 
+Anyone can pitch an API value chain automation idea at meetups. If idea is rather small, it can be implemented without any concept development. Meetups and youtube offer a growing channel to find partners and co-developers. 
 
 One possible path for further development is to take idea to Demola Network for concept refinement. In that case idea needs a host, for example a company which is willing to explore the path. Demola teams start twice a year and each team works for about 3-4 months. After the team has finalized results, it can be implemented either as open source (preferred) or prorietary. Open source components are managed under APIOps organization in Github. 
 
@@ -77,7 +77,7 @@ One possible path for further development is to take idea to Demola Network for 
 * [APIOps Tampere](https://www.meetup.com/APIOps-Tampere/)
 * [APIOps Helsinki](https://www.meetup.com/APIOps-Helsinki/)
 
-Rampup phase candidate groups:
+Ramp-up phase candidate groups:
 
 * [APIOps Budapest](https://www.meetup.com/APIOps-Budapest/)
 
@@ -86,7 +86,7 @@ Rampup phase candidate groups:
 To start a new local group, there are few requirements. 
 * First you need two people to act as organizers of the local group. 
 * Secondly, you need facilities for first the meetup. 
-* Thirdly, you need to setup meetup.com group. Needed graphics will be provided by Global Network. Contact information below. 
+* Thirdly, you need to setup meetup.com group. Needed graphics will be provided by Global Network. [Contact information](#contactinformation) below. 
 
 <a name="communityfunding"/>
 ## Community funding and partner packages
@@ -104,7 +104,7 @@ APIOps Global Network aims to expand to all Demola Network locations during 2017
 
 APIOps Network is open for further co-operation with other operators and platforms.  
 
-**Companies can do open development with then community**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
+**Companies can do open development with the community**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
 
 ## Logos
 TODO: upload logos to a folder and link here. 
