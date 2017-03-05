@@ -1,4 +1,6 @@
-# Partner Packages
+# APIOps Network Partner Packages
+
+Updated: 5.3.2017
 
 We connect API economy developers and companies. Recorded APIOps meetups provide Youtube visibility for skilled API experts and supporting companies. APIOps community organises meetups now in multiple locations. More meetup locations are expected to come 2017. All meetup presentations are stored in Youtube for later use. In every recording there’s awesome APIOps developer profile which is developer’s calling card in digital world.
 
