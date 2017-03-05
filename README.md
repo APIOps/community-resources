@@ -14,6 +14,7 @@ Responsible body: Jarkko Moilanen, APIOps Global Network manager
 [Starting a new group](#startinganewgroup)  
 [Community funding and partner packages](#communityfunding)  
 [Cooperation - development and network scaling](#cooperation)  
+[Logos](#logos)
 [Contact information](#contactinformation)  
 
 <hr/>
@@ -104,6 +105,10 @@ APIOps Global Network aims to expand to all Demola Network locations during 2017
 APIOps Network is open for further co-operation with other operators and platforms.  
 
 **Companies can do open development with then community**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
+
+## Logos
+TODO: upload logos to a folder and link here. 
+
 
 <a name="contactinformation"/>
 ## Contact information
