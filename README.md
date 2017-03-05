@@ -89,7 +89,7 @@ To start a new local group, there are few requirements.
 
 <a name="communityfunding"/>
 ## Community funding and partner packages
-All the meetup sessions are recorded and published in APIOps Youtube channel. All the videos are monetized with advertisements. The profit from video views are divided with APIOps host organization (Apinf Ltd) and APIOps community. Community gets 50% of the Youtube income and host company gets the other 50%. **In other words, the better content community creates in Youtube, the more resources it will get.** 
+All the meetup sessions are recorded and published in APIOps Youtube channel. All the videos are monetized with advertisements. The profit from video views are divided with APIOps host organization (Apinf Ltd) and APIOps community. Community gets 50% of the Youtube income and host company gets the other 50%. **In other words, the more awesome content community creates in Youtube, the more resources it will get.** 
 
 Received funding is used in advancing APIOps community, organize events and support local groups. 
 
