@@ -1,5 +1,7 @@
 # APIOps community 
 
+![logo](https://raw.githubusercontent.com/APIOps/community-resources/master/images/sticker-apiops.png)
+
 Responsible body: Jarkko Moilanen, APIOps Global Network manager 
 
 ### Table of Contents  
