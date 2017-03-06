@@ -108,7 +108,7 @@ APIOps Network is open for further co-operation with other operators and platfor
 **Companies can do open development with the community**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
 
 ## Logos
-TODO: upload logos to a folder and link here. 
+A [few logos](https://github.com/APIOps/community-resources/tree/master/images/logos) can be found from separate folder. 
 
 
 <a name="contactinformation"/>
