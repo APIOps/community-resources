@@ -99,7 +99,7 @@ Received funding is used in advancing APIOps community, organize events and supp
 
 Local groups are encouraged to seek out partners, which support group activities with various resources. One partner could for example pay food and drinks for one or more meetups. 
 
-**Partner packages** are described in [separate page](https://github.com/APIOps/community-resources/blob/master/partner-packages.md). 
+**Partner packages** are described in [separate page](https://github.com/APIOps/community-resources/blob/master/partner-packages.md). It is adviced that with each partner, an agreement is signed by both parties. You can use the provided agreement or if needed draft a new one. (TODO: add agreement draft to repository) 
 
 <a name="cooperation"/>
 ## Co-operation - development and network scaling
