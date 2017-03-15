@@ -10,7 +10,7 @@ Responsible body: Jarkko Moilanen, APIOps Global Network manager
 [Reward program](#rewardprogram)  
 [Activities and streaming](#activities)  
 [Joint development model](#developmentmodel)  
-[Sister communities](#sistercommunities)
+[Sister communities](#sistercommunities)   
 [Current local groups + candidates](#currentlocalgroups)  
 [Starting a new group](#startinganewgroup)  
 [Community funding and partner packages](#communityfunding)  
