@@ -121,6 +121,7 @@ APIOps Network is open for further co-operation with other operators and platfor
 **Companies can do open development with the community**. For example APInf Ltd uses resources to do technical and conceptual explorations. APInf uses Demola Network to discover new concepts in API management and API value chain. In some cases concepts prove to be awesome and then more resources are used with the aim to implement PoC level service. Companies can present ideas in meetups to raise community interest and test the initial response to the idea. 
 
 <a name="sistercommunities"/>
+
 ## Sister communities - Hacklabs, industry and Demola network
 
 Part of the activity is related to IoT devices and hardware innovations. Therefore part of the activity is focused on supporting hacklabs and machine building industry related activities. [Read more](https://github.com/APIOps/community-resources/blob/master/hacklabs-industry.md). 
