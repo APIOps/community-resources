@@ -111,6 +111,7 @@ Local groups are encouraged to seek out partners, which support group activities
 **Partner packages** are described in [separate page](https://github.com/APIOps/community-resources/blob/master/partner-packages.md). It is adviced that with each partner, an agreement is signed by both parties. You can use the provided agreement or if needed draft a new one. (TODO: add agreement draft to repository) 
 
 <a name="cooperation"/>
+
 ## Co-operation - development and network scaling
 APIOps Global Network aims to expand to all Demola Network locations during 2017-2018. APInf Oy (global lead of APIOps network) and Demola International have signed a co-operation agreement 1.3.2017. 
 
