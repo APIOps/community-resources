@@ -128,9 +128,11 @@ APIOps Network is open for further co-operation with other operators and platfor
 
 <a name="sistercommunities"/>
 
-## Sister communities - Hacklabs, industry and Demola network
+## Connection with Hacklabs, industry and Demola network
 
 Part of the activity is related to IoT devices and hardware innovations. Therefore part of the activity is focused on supporting hacklabs and machine building industry related activities. [Read more](https://github.com/APIOps/community-resources/blob/master/hacklabs-industry.md). 
+
+**Shared API -management sandbox**  
 
 ## Logos
 A [few logos](https://github.com/APIOps/community-resources/tree/master/images/logos) can be found from separate folder. 
