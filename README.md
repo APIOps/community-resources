@@ -34,6 +34,10 @@ APIOps Global Network is about building standardized API value chain automation 
 ## Structure 
 Network consists of local meetup groups which are organized in meetup.com. Each location is independent and defines own details regarding events and co-operation with local partners. Focus on activities should nevertheless touch API value chain automation. 
 
+* APIOps local groups
+* Demola Network
+* Local hacklabs
+* Local companies
 
 
 <a name="advisoryboard"/>
