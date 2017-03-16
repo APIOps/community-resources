@@ -132,7 +132,7 @@ APIOps Network is open for further co-operation with other operators and platfor
 
 Part of the activity is related to IoT devices and hardware innovations. Therefore part of the activity is focused on supporting hacklabs and machine building industry related activities. [Read more](https://github.com/APIOps/community-resources/blob/master/hacklabs-industry.md). 
 
-**Shared API -management sandbox**  
+**Shared API -management sandbox**  free for experimentations. If you break it, we fix it! [Read more](https://github.com/APIOps/community-resources/blob/master/api-management-sandbox.md)
 
 ## Logos
 A [few logos](https://github.com/APIOps/community-resources/tree/master/images/logos) can be found from separate folder. 
