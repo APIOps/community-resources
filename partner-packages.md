@@ -30,7 +30,7 @@ To become partner is a bargain! Your minimal invest in supporting APIOps communi
 
 * Privilege to host 1 meetup. 
 * APIOps Global Network provides meetup.com visibility and participant registration
-* APIOps Global Network will organize one Amazon gift card (50€) for community speaker. Your logo in the gift card along with APIOps!  
+* APIOps Global Network will organize two Amazon gift cards (sum 50€) for community speakers. Your logo in the gift cards along with APIOps!  
 * Your logo in Youtube presentations (in this meetup presentations, live and youtube)
 * Twitter and facebook visibility
 * Logo in meetup.com
@@ -39,7 +39,7 @@ To become partner is a bargain! Your minimal invest in supporting APIOps communi
 
 * Privilege to host 1 meetup (product presentation). 
 * Developer contacts from 1 meetups (name, email)
-* APIOps Global Network will organize two Amazon gift cards (each 100€) for speakers (max 2). Your logo in the gift card! 
+* APIOps Global Network will organize four Amazon gift cards (each 50€) for speakers and community. Your logo in the gift cards! 
 * Your logo in Youtube presentations (in this meetup presentations, live and youtube)
 * Twitter and facebook visibility
 * Logo in 2 group meetup.com pages
