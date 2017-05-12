@@ -138,9 +138,10 @@ Part of the activity is related to IoT devices and hardware innovations. Therefo
 
 **Shared API -management sandbox**  free for experimentations. If you break it, we fix it! [Read more](https://github.com/APIOps/community-resources/blob/master/api-management-sandbox.md)
 
-## Logos
+## Brand guide lines and logos
 A [few logos](https://github.com/APIOps/community-resources/tree/master/images/logos) can be found from separate folder. 
 
+[Brand guide lines](https://github.com/APIOps/community-resources/blob/master/brands.md) contains information about APIOps and APItalist usage. 
 
 <a name="contactinformation"/>
 
